@@ -6,8 +6,8 @@ My specialty is building web applications using HTML5/CSS3, JavaScript ES6+, Rea
 🧠 Currently, I'm interested in learning something new and very useful. That's why I started learning Next JS
 
 
+## 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedansarusman&theme=tokyonight)
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedansarusman&show_icons=true&theme=tokyonight)
 
